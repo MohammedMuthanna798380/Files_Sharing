@@ -1,5 +1,5 @@
 # File_Sharing
 
-File Sharing is a program to share all types of files that stored in server device between the clients.
+File sharing is a program that allows clients to share all types of files stored on a server device, and every client can upload files.
 
 ## Used Java Programming Language
